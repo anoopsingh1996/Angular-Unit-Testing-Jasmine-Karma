@@ -271,3 +271,7 @@ The getDepartmentMapping() is slightly different, as we are passing params to GE
     req.flush({ msg: 'success' });
   });
   ```
+<b>  Result of test case:</b>
+  
+  ![1__zps_tik-mHUuic75oVkpQ](https://user-images.githubusercontent.com/9657488/94363624-14b54e00-00e1-11eb-9431-29236088e7c1.png)
+
